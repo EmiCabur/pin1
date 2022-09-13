@@ -1,0 +1,10 @@
+{
+    "name": "usuario/www",
+    "authors": [
+        {
+            "name": "Maria Emilce Paz Cabur",
+            "email": "pazcaburemilce@gmail.com"
+        }
+    ],
+    "require": {}
+}
